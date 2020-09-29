@@ -5,7 +5,11 @@ hylogenetic trees in Newick format constructed by Fasttree (1) or RAxML (2) from
 
 Citations:
 (1) Price, M. N., Dehal, P. S. & Arkin, A. P. Fasttree: Computing large minimum evolution trees with profiles instead of a distance matrix. Mol. Biol. Evol. 26, 1641–1650 (2009).
+
 (2) Stamatakis, A. RAxML version 8: A tool for phylogenetic analysis and post-analysis of large phylogenies. Bioinformatics 30, 1312–1313 (2014).
+
 (3)Steinegger, M. & Söding, J. MMseqs2 enables sensitive protein sequence searching for the analysis of massive data sets. Nat. Biotechnol. 35, 1026–1028 (2017).
+
 (4) Grigoriev, I. V. et al. MycoCosm portal: Gearing up for 1000 fungal genomes. Nucleic Acids Res. 42, 699–704 (2014).
+
 (5) Keeling, P. J. et al. The Marine Microbial Eukaryote Transcriptome Sequencing Project (MMETSP): Illuminating the Functional Diversity of Eukaryotic Life in the Oceans through Transcriptome Sequencing. PLoS Biol. 12, e1001889 (2014).
