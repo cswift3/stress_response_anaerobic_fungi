@@ -1,0 +1,101 @@
+hit	query	HFSP_score	target	NCBI_taxonomy
+1	XP_953607.1i|Theileria_annulata	74.5	XP_953607.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria
+2	XP_953607.1i|Theileria_annulata	54.5	XP_766688.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria	Theileria parva
+3	XP_953607.1i|Theileria_annulata	32.5	PVC53299.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria
+4	XP_953607.1i|Theileria_annulata	31.8	KYF45933.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+5	XP_953607.1i|Theileria_annulata	31.8	KFG55582.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+6	XP_953607.1i|Theileria_annulata	31.8	RQX74735.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+7	XP_953607.1i|Theileria_annulata	31.8	KFH17608.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+8	XP_953607.1i|Theileria_annulata	31.5	PVC61043.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria
+9	XP_953607.1i|Theileria_annulata	31.1	XP_026304636.1	cellular organisms	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Deuterostomia	Chordata	Craniata	Vertebrata	Gnathostomata	Teleostomi	Euteleostomi	Sarcopterygii	Dipnotetrapodomorpha	Tetrapoda	Amniota	Mammalia	Theria	Eutheria	Boreoeutheria	Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Cercopithecoidea	Cercopithecidae	Colobinae	Piliocolobus
+10	XP_953607.1i|Theileria_annulata	30.8	PHJ24541.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Cystoisospora
+11	XP_953607.1i|Theileria_annulata	28.5	XP_009689958.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria	Theileria orientalis
+12	XP_953607.1i|Theileria_annulata	28.5	PVC52503.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria
+13	XP_953607.1i|Theileria_annulata	27.4	MMETSP1451_36532	cellular organisms	Eukaryota	Alveolata	Chromerida	Vitrella
+14	XP_953607.1i|Theileria_annulata	23.7	EUR74726.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+15	XP_953607.1i|Theileria_annulata	23.7	ETW19519.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+16	XP_953607.1i|Theileria_annulata	23.7	ETW44064.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+17	XP_953607.1i|Theileria_annulata	23.7	ETW37672.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+18	XP_953607.1i|Theileria_annulata	23.5	XP_004833708.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria	Theileria equi
+19	XP_953607.1i|Theileria_annulata	22.8	SCM23965.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+20	XP_953607.1i|Theileria_annulata	22.8	SCO63280.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+21	XP_953607.1i|Theileria_annulata	22.8	SCO61251.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+22	XP_953607.1i|Theileria_annulata	22.5	XP_021338818.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia	Babesia microti
+23	XP_953607.1i|Theileria_annulata	22.0	PHJ23178.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Cystoisospora
+24	XP_953607.1i|Theileria_annulata	21.5	PVC58240.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria
+25	XP_953607.1i|Theileria_annulata	20.0	RQX74742.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+26	XP_953607.1i|Theileria_annulata	19.2	ETB60911.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium yoelii
+27	XP_953607.1i|Theileria_annulata	18.2	SCO61249.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+28	XP_953607.1i|Theileria_annulata	18.2	SCM23962.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+29	XP_953607.1i|Theileria_annulata	18.2	SCO63279.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+30	XP_953607.1i|Theileria_annulata	17.5	XP_019915937.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium
+31	XP_953607.1i|Theileria_annulata	16.0	XP_029217123.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Besnoitia
+32	XP_953607.1i|Theileria_annulata	16.0	AAS48463.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma
+33	XP_953607.1i|Theileria_annulata	16.0	XP_002367897.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+34	XP_953607.1i|Theileria_annulata	16.0	PUA92912.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+35	XP_953607.1i|Theileria_annulata	16.0	KFH03051.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+36	XP_953607.1i|Theileria_annulata	16.0	KFG50712.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+37	XP_953607.1i|Theileria_annulata	16.0	KYK67674.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+38	XP_953607.1i|Theileria_annulata	16.0	ESS35562.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii	Toxoplasma gondii agenotypes	Toxoplasma gondii type III
+39	XP_953607.1i|Theileria_annulata	16.0	EPR64212.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+40	XP_953607.1i|Theileria_annulata	16.0	PIM03439.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+41	XP_953607.1i|Theileria_annulata	16.0	KFG63508.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+42	XP_953607.1i|Theileria_annulata	15.5	SCN26859.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+43	XP_953607.1i|Theileria_annulata	15.5	EUD73384.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium vinckei
+44	XP_953607.1i|Theileria_annulata	15.1	XP_026304637.1	cellular organisms	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Deuterostomia	Chordata	Craniata	Vertebrata	Gnathostomata	Teleostomi	Euteleostomi	Sarcopterygii	Dipnotetrapodomorpha	Tetrapoda	Amniota	Mammalia	Theria	Eutheria	Boreoeutheria	Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Cercopithecoidea	Cercopithecidae	Colobinae	Piliocolobus
+45	XP_953607.1i|Theileria_annulata	14.7	OEH76708.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Eimeriidae	Cyclospora
+46	XP_953607.1i|Theileria_annulata	14.5	XP_008624319.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium vinckei
+47	XP_953607.1i|Theileria_annulata	14.5	OTN64776.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+48	XP_953607.1i|Theileria_annulata	14.1	XP_003883291.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Neospora	Neospora caninum
+49	XP_953607.1i|Theileria_annulata	13.5	XP_012337579.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+50	XP_953607.1i|Theileria_annulata	13.5	XP_028866437.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia
+51	XP_953607.1i|Theileria_annulata	12.7	MMETSP0270_94470	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+52	XP_953607.1i|Theileria_annulata	12.5	XP_028533857.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Haemamoeba)
+53	XP_953607.1i|Theileria_annulata	12.5	EAA17580.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium yoelii
+54	XP_953607.1i|Theileria_annulata	12.5	SCN61280.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium chabaudi
+55	XP_953607.1i|Theileria_annulata	12.5	SCM23823.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium chabaudi
+56	XP_953607.1i|Theileria_annulata	12.5	XP_677610.2	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium berghei
+57	XP_953607.1i|Theileria_annulata	12.5	SBS85185.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale
+58	XP_953607.1i|Theileria_annulata	12.5	SCP04989.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+59	XP_953607.1i|Theileria_annulata	12.5	XP_743101.2	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium chabaudi
+60	XP_953607.1i|Theileria_annulata	12.5	SBT37680.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale
+61	XP_953607.1i|Theileria_annulata	12.5	MMETSP1451_36531	cellular organisms	Eukaryota	Alveolata	Chromerida	Vitrella
+62	XP_953607.1i|Theileria_annulata	12.5	CXI65561.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+63	XP_953607.1i|Theileria_annulata	12.5	SBT79644.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+64	XP_953607.1i|Theileria_annulata	12.5	MMETSP0288_29369	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Alexandrium
+65	XP_953607.1i|Theileria_annulata	12.5	SCM22609.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium chabaudi
+66	XP_953607.1i|Theileria_annulata	12.5	XP_726015.2	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+67	XP_953607.1i|Theileria_annulata	12.5	XP_028869816.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia	unclassified Babesia
+68	XP_953607.1i|Theileria_annulata	12.5	SBT38383.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale
+69	XP_953607.1i|Theileria_annulata	12.5	XP_002261393.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium knowlesi
+70	XP_953607.1i|Theileria_annulata	12.5	XP_012766832.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia
+71	XP_953607.1i|Theileria_annulata	12.5	VTZ79556.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+72	XP_953607.1i|Theileria_annulata	12.5	SCN61279.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium chabaudi
+73	XP_953607.1i|Theileria_annulata	12.5	SBS94060.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale
+74	XP_953607.1i|Theileria_annulata	12.5	CDU18971.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+75	XP_953607.1i|Theileria_annulata	12.5	SBT77644.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+76	XP_953607.1i|Theileria_annulata	12.5	XP_028526680.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Haemamoeba)
+77	XP_953607.1i|Theileria_annulata	12.5	CEM21685.1	cellular organisms	Eukaryota	Alveolata	Chromerida	Vitrella	Vitrella brassicaformis
+78	XP_953607.1i|Theileria_annulata	12.5	VEV57396.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium vinckei
+79	XP_953607.1i|Theileria_annulata	11.5	KMZ98706.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium vivax
+80	XP_953607.1i|Theileria_annulata	11.5	SCO73580.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+81	XP_953607.1i|Theileria_annulata	11.5	OII71442.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Cryptosporidiidae	Cryptosporidium
+82	XP_953607.1i|Theileria_annulata	11.5	KMZ85570.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium vivax
+83	XP_953607.1i|Theileria_annulata	11.5	SGX78385.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+84	XP_953607.1i|Theileria_annulata	11.5	SCO68115.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+85	XP_953607.1i|Theileria_annulata	11.5	XP_028862542.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+86	XP_953607.1i|Theileria_annulata	11.5	XP_008814825.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium inui
+87	XP_953607.1i|Theileria_annulata	11.5	XP_004223224.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium cynomolgi
+88	XP_953607.1i|Theileria_annulata	11.5	XP_002141738.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Cryptosporidiidae	Cryptosporidium	Cryptosporidium muris
+89	XP_953607.1i|Theileria_annulata	11.5	SBS87018.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+90	XP_953607.1i|Theileria_annulata	11.5	KMZ92045.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium vivax
+91	XP_953607.1i|Theileria_annulata	11.5	KMZ79771.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium vivax
+92	XP_953607.1i|Theileria_annulata	11.5	XP_026305811.1	cellular organisms	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Deuterostomia	Chordata	Craniata	Vertebrata	Gnathostomata	Teleostomi	Euteleostomi	Sarcopterygii	Dipnotetrapodomorpha	Tetrapoda	Amniota	Mammalia	Theria	Eutheria	Boreoeutheria	Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Cercopithecoidea	Cercopithecidae	Colobinae	Piliocolobus
+93	XP_953607.1i|Theileria_annulata	10.5	XP_028544338.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+94	XP_953607.1i|Theileria_annulata	10.5	MMETSP0271_6369	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+95	XP_953607.1i|Theileria_annulata	10.5	MMETSP0120_67993	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Kryptoperidiniaceae	Kryptoperidinium
+96	XP_953607.1i|Theileria_annulata	10.5	SBS94555.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale
+97	XP_953607.1i|Theileria_annulata	10.5	XP_001611057.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia	Babesia bovis
+98	XP_953607.1i|Theileria_annulata	10.5	MMETSP1441_51358	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa
+99	XP_953607.1i|Theileria_annulata	10.5	MMETSP0272_56971	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+100	XP_953607.1i|Theileria_annulata	10.5	MMETSP1338_77549	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Suessiales	Suessiaceae	Pelagodinium

@@ -1,0 +1,101 @@
+hit	query	HFSP_score	target	NCBI_taxonomy
+1	XP_024328881.1|Plasmodium_falciparum_3D7	73.5	XP_024328881.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+2	XP_024328881.1|Plasmodium_falciparum_3D7	73.5	ETW57917.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+3	XP_024328881.1|Plasmodium_falciparum_3D7	73.5	EWC91109.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+4	XP_024328881.1|Plasmodium_falciparum_3D7	72.5	KNG75759.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+5	XP_024328881.1|Plasmodium_falciparum_3D7	70.5	ETW51894.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+6	XP_024328881.1|Plasmodium_falciparum_3D7	70.5	ETW57916.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+7	XP_024328881.1|Plasmodium_falciparum_3D7	69.5	SOS76102.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+8	XP_024328881.1|Plasmodium_falciparum_3D7	69.5	ETW21059.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+9	XP_024328881.1|Plasmodium_falciparum_3D7	69.5	EUT94397.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+10	XP_024328881.1|Plasmodium_falciparum_3D7	68.5	ETW28200.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+11	XP_024328881.1|Plasmodium_falciparum_3D7	68.5	ETW51887.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+12	XP_024328881.1|Plasmodium_falciparum_3D7	67.7	EWC91110.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+13	XP_024328881.1|Plasmodium_falciparum_3D7	67.5	EUR82512.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+14	XP_024328881.1|Plasmodium_falciparum_3D7	67.5	KOB58608.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+15	XP_024328881.1|Plasmodium_falciparum_3D7	66.7	EWC91111.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+16	XP_024328881.1|Plasmodium_falciparum_3D7	66.5	ETW64035.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+17	XP_024328881.1|Plasmodium_falciparum_3D7	66.5	EWC79215.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+18	XP_024328881.1|Plasmodium_falciparum_3D7	66.5	ETW32565.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+19	XP_024328881.1|Plasmodium_falciparum_3D7	65.6	EUT94398.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+20	XP_024328881.1|Plasmodium_falciparum_3D7	65.5	KOB89338.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+21	XP_024328881.1|Plasmodium_falciparum_3D7	65.5	KOB87299.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+22	XP_024328881.1|Plasmodium_falciparum_3D7	64.5	EUR82511.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+23	XP_024328881.1|Plasmodium_falciparum_3D7	63.5	ETW45558.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+24	XP_024328881.1|Plasmodium_falciparum_3D7	60.7	EWC79216.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+25	XP_024328881.1|Plasmodium_falciparum_3D7	60.5	XP_012760828.2	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+26	XP_024328881.1|Plasmodium_falciparum_3D7	60.5	SOV74928.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+27	XP_024328881.1|Plasmodium_falciparum_3D7	60.5	CDO62173.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+28	XP_024328881.1|Plasmodium_falciparum_3D7	59.7	KOB87298.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+29	XP_024328881.1|Plasmodium_falciparum_3D7	59.6	ETW39197.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+30	XP_024328881.1|Plasmodium_falciparum_3D7	53.7	ETW57918.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+31	XP_024328881.1|Plasmodium_falciparum_3D7	51.5	SPJ08167.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+32	XP_024328881.1|Plasmodium_falciparum_3D7	50.5	SOV73606.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+33	XP_024328881.1|Plasmodium_falciparum_3D7	36.3	SBS81634.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+34	XP_024328881.1|Plasmodium_falciparum_3D7	36.3	XP_028860175.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+35	XP_024328881.1|Plasmodium_falciparum_3D7	36.3	SBT70227.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+36	XP_024328881.1|Plasmodium_falciparum_3D7	33.5	SBT30643.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale
+37	XP_024328881.1|Plasmodium_falciparum_3D7	32.3	XP_028541690.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+38	XP_024328881.1|Plasmodium_falciparum_3D7	27.5	SOV20518.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+39	XP_024328881.1|Plasmodium_falciparum_3D7	27.5	XP_028536175.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+40	XP_024328881.1|Plasmodium_falciparum_3D7	27.5	SOV10126.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+41	XP_024328881.1|Plasmodium_falciparum_3D7	27.5	XP_018643915.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+42	XP_024328881.1|Plasmodium_falciparum_3D7	21.7	KNA02093.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium vivax
+43	XP_024328881.1|Plasmodium_falciparum_3D7	21.5	KNA02086.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium vivax
+44	XP_024328881.1|Plasmodium_falciparum_3D7	18.6	KMZ82854.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium vivax
+45	XP_024328881.1|Plasmodium_falciparum_3D7	18.6	SGX75349.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+46	XP_024328881.1|Plasmodium_falciparum_3D7	18.6	KMZ89226.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium vivax
+47	XP_024328881.1|Plasmodium_falciparum_3D7	18.6	XP_001613554.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+48	XP_024328881.1|Plasmodium_falciparum_3D7	18.6	SCO65125.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+49	XP_024328881.1|Plasmodium_falciparum_3D7	12.8	SBT70229.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+50	XP_024328881.1|Plasmodium_falciparum_3D7	9.5	KMZ95548.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium vivax
+51	XP_024328881.1|Plasmodium_falciparum_3D7	9.5	XP_012334120.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+52	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	KFG28676.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+53	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	XP_018635512.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+54	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	XP_003885143.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Neospora	Neospora caninum
+55	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	RQX72514.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+56	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	KFH17975.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+57	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	KYF47900.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+58	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	KFG65927.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+59	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	PIL98335.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+60	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	KFG44349.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+61	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	ACA62938.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma
+62	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	KFH09520.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+63	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	KYK69938.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+64	XP_024328881.1|Plasmodium_falciparum_3D7	7.9	CEL69841.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Neospora	Neospora caninum
+65	XP_024328881.1|Plasmodium_falciparum_3D7	6.9	EPR61098.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+66	XP_024328881.1|Plasmodium_falciparum_3D7	6.8	MMETSP1357_31542	cellular organisms	Eukaryota	Cryptophyta	Cryptomonadales	Hemiselmidaceae	Hemiselmis
+67	XP_024328881.1|Plasmodium_falciparum_3D7	6.5	SCL96298.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium chabaudi
+68	XP_024328881.1|Plasmodium_falciparum_3D7	6.5	XP_677418.2	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium berghei
+69	XP_024328881.1|Plasmodium_falciparum_3D7	6.5	ACP52719.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+70	XP_024328881.1|Plasmodium_falciparum_3D7	5.5	EUD70211.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium vinckei
+71	XP_024328881.1|Plasmodium_falciparum_3D7	5.5	XP_008626381.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium vinckei
+72	XP_024328881.1|Plasmodium_falciparum_3D7	5.5	XP_016653072.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium chabaudi
+73	XP_024328881.1|Plasmodium_falciparum_3D7	5.5	SCL99277.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium chabaudi
+74	XP_024328881.1|Plasmodium_falciparum_3D7	5.5	SCM03697.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium chabaudi
+75	XP_024328881.1|Plasmodium_falciparum_3D7	5.5	ETB60675.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium yoelii
+76	XP_024328881.1|Plasmodium_falciparum_3D7	5.5	VEV54618.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium vinckei
+77	XP_024328881.1|Plasmodium_falciparum_3D7	4.5	EAA19035.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium yoelii
+78	XP_024328881.1|Plasmodium_falciparum_3D7	4.5	XP_726631.2	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+79	XP_024328881.1|Plasmodium_falciparum_3D7	4.5	XP_004220563.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium cynomolgi
+80	XP_024328881.1|Plasmodium_falciparum_3D7	3.5	SBS80663.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale
+81	XP_024328881.1|Plasmodium_falciparum_3D7	3.5	SCA48229.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+82	XP_024328881.1|Plasmodium_falciparum_3D7	3.1	MMETSP1128_4791	cellular organisms	Eukaryota	Viridiplantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Dunaliellaceae	Dunaliella
+83	XP_024328881.1|Plasmodium_falciparum_3D7	3.1	MMETSP1127_15355	cellular organisms	Eukaryota	Viridiplantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Dunaliellaceae	Dunaliella
+84	XP_024328881.1|Plasmodium_falciparum_3D7	2.9	MMETSP0126_65886	cellular organisms	Eukaryota	Alveolata	Ciliophora	Intramacronucleata	Spirotrichea	Choreotrichia	Choreotrichida	Strombidinopsidae	Strombidinopsis
+85	XP_024328881.1|Plasmodium_falciparum_3D7	2.9	MMETSP0313_3258	cellular organisms	Eukaryota	Rhodophyta	Bangiophyceae	Porphyridiales	Porphyridiaceae	Porphyridium
+86	XP_024328881.1|Plasmodium_falciparum_3D7	2.9	MMETSP0126_65887	cellular organisms	Eukaryota	Alveolata	Ciliophora	Intramacronucleata	Spirotrichea	Choreotrichia	Choreotrichida	Strombidinopsidae	Strombidinopsis
+87	XP_024328881.1|Plasmodium_falciparum_3D7	2.5	SBS80039.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale
+88	XP_024328881.1|Plasmodium_falciparum_3D7	2.2	EFJ33713.1	cellular organisms	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Tracheophyta	Lycopodiopsida	Selaginellales	Selaginellaceae	Selaginella
+89	XP_024328881.1|Plasmodium_falciparum_3D7	2.2	XP_024525765.1	cellular organisms	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Tracheophyta	Lycopodiopsida	Selaginellales	Selaginellaceae	Selaginella
+90	XP_024328881.1|Plasmodium_falciparum_3D7	2.2	PHJ25547.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Cystoisospora
+91	XP_024328881.1|Plasmodium_falciparum_3D7	2.2	XP_024542890.1	cellular organisms	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Tracheophyta	Lycopodiopsida	Selaginellales	Selaginellaceae	Selaginella
+92	XP_024328881.1|Plasmodium_falciparum_3D7	2.2	XP_024525764.1	cellular organisms	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Tracheophyta	Lycopodiopsida	Selaginellales	Selaginellaceae	Selaginella
+93	XP_024328881.1|Plasmodium_falciparum_3D7	2.2	MMETSP0759_10387	cellular organisms	Eukaryota	Heterolobosea	unclassified Heterolobosea	Percolomonas
+94	XP_024328881.1|Plasmodium_falciparum_3D7	2.2	EFJ37061.1	cellular organisms	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Tracheophyta	Lycopodiopsida	Selaginellales	Selaginellaceae	Selaginella
+95	XP_024328881.1|Plasmodium_falciparum_3D7	2.2	XP_024525766.1	cellular organisms	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Tracheophyta	Lycopodiopsida	Selaginellales	Selaginellaceae	Selaginella
+96	XP_024328881.1|Plasmodium_falciparum_3D7	2.2	XP_024542880.1	cellular organisms	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Tracheophyta	Lycopodiopsida	Selaginellales	Selaginellaceae	Selaginella
+97	XP_024328881.1|Plasmodium_falciparum_3D7	2.2	XP_024542885.1	cellular organisms	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Tracheophyta	Lycopodiopsida	Selaginellales	Selaginellaceae	Selaginella
+98	XP_024328881.1|Plasmodium_falciparum_3D7	0.9	472418__Jimfl_AD_1	cellular organisms	Eukaryota	Opisthokonta	Fungi	Fungi incertae sedis	Mucoromycota	Mucoromycotina	Endogonomycetes	Endogonales	Endogonaceae	Jimgerdemannia
+99	XP_024328881.1|Plasmodium_falciparum_3D7	0.9	89230__Endsp1	cellular organisms	Eukaryota	Opisthokonta	Fungi	Fungi incertae sedis	Mucoromycota	Mucoromycotina	Endogonomycetes	Endogonales	Endogonaceae	Endogone
+100	XP_024328881.1|Plasmodium_falciparum_3D7	0.9	127173__Jimlac1	cellular organisms	Eukaryota	Opisthokonta	Fungi	Fungi incertae sedis	Mucoromycota	Mucoromycotina	Endogonomycetes	Endogonales	Endogonaceae	Jimgerdemannia

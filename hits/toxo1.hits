@@ -1,0 +1,101 @@
+hit	query	HFSP_score	target	NCBI_taxonomy
+1	AAS48463.1|Toxoplasma_gondii	72.5	AAS48463.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma
+2	AAS48463.1|Toxoplasma_gondii	71.5	KYF45927.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+3	AAS48463.1|Toxoplasma_gondii	71.5	KYF45933.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+4	AAS48463.1|Toxoplasma_gondii	71.5	EPR64212.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+5	AAS48463.1|Toxoplasma_gondii	71.5	ESS35562.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii	Toxoplasma gondii agenotypes	Toxoplasma gondii type III
+6	AAS48463.1|Toxoplasma_gondii	71.5	KYK67674.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+7	AAS48463.1|Toxoplasma_gondii	71.5	XP_002367897.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+8	AAS48463.1|Toxoplasma_gondii	71.5	RQX74735.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+9	AAS48463.1|Toxoplasma_gondii	71.5	KFG55582.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+10	AAS48463.1|Toxoplasma_gondii	71.5	PUA92912.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+11	AAS48463.1|Toxoplasma_gondii	70.5	PIM03439.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+12	AAS48463.1|Toxoplasma_gondii	70.5	KFG63508.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+13	AAS48463.1|Toxoplasma_gondii	70.5	KFH17608.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+14	AAS48463.1|Toxoplasma_gondii	70.5	KFH03051.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+15	AAS48463.1|Toxoplasma_gondii	70.5	KFG50712.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+16	AAS48463.1|Toxoplasma_gondii	69.5	KYK67677.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+17	AAS48463.1|Toxoplasma_gondii	57.1	KFG55578.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+18	AAS48463.1|Toxoplasma_gondii	56.8	RQX74742.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+19	AAS48463.1|Toxoplasma_gondii	56.1	KFH17603.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Toxoplasma	Toxoplasma gondii
+20	AAS48463.1|Toxoplasma_gondii	38.5	PHJ23178.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Cystoisospora
+21	AAS48463.1|Toxoplasma_gondii	28.7	OEH76708.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Eimeriidae	Cyclospora
+22	AAS48463.1|Toxoplasma_gondii	27.8	XP_026304636.1	cellular organisms	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Deuterostomia	Chordata	Craniata	Vertebrata	Gnathostomata	Teleostomi	Euteleostomi	Sarcopterygii	Dipnotetrapodomorpha	Tetrapoda	Amniota	Mammalia	Theria	Eutheria	Boreoeutheria	Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Cercopithecoidea	Cercopithecidae	Colobinae	Piliocolobus
+23	AAS48463.1|Toxoplasma_gondii	27.8	ETB60911.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)	Plasmodium yoelii
+24	AAS48463.1|Toxoplasma_gondii	27.8	EUR74725.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+25	AAS48463.1|Toxoplasma_gondii	27.8	SCM23962.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+26	AAS48463.1|Toxoplasma_gondii	27.8	SCO61249.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+27	AAS48463.1|Toxoplasma_gondii	27.8	ETW33026.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+28	AAS48463.1|Toxoplasma_gondii	27.8	ETW14881.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+29	AAS48463.1|Toxoplasma_gondii	27.8	SCO63279.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+30	AAS48463.1|Toxoplasma_gondii	27.8	ETW44063.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+31	AAS48463.1|Toxoplasma_gondii	22.0	ETW19519.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+32	AAS48463.1|Toxoplasma_gondii	22.0	ETW44064.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+33	AAS48463.1|Toxoplasma_gondii	22.0	EUR74726.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+34	AAS48463.1|Toxoplasma_gondii	22.0	ETW37672.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+35	AAS48463.1|Toxoplasma_gondii	21.0	XP_026304637.1	cellular organisms	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Deuterostomia	Chordata	Craniata	Vertebrata	Gnathostomata	Teleostomi	Euteleostomi	Sarcopterygii	Dipnotetrapodomorpha	Tetrapoda	Amniota	Mammalia	Theria	Eutheria	Boreoeutheria	Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Cercopithecoidea	Cercopithecidae	Colobinae	Piliocolobus
+36	AAS48463.1|Toxoplasma_gondii	21.0	XP_028526680.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Haemamoeba)
+37	AAS48463.1|Toxoplasma_gondii	20.0	MMETSP0288_29369	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Alexandrium
+38	AAS48463.1|Toxoplasma_gondii	20.0	MMETSP1451_36531	cellular organisms	Eukaryota	Alveolata	Chromerida	Vitrella
+39	AAS48463.1|Toxoplasma_gondii	19.5	XP_003883291.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Neospora	Neospora caninum
+40	AAS48463.1|Toxoplasma_gondii	19.4	SCM23965.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+41	AAS48463.1|Toxoplasma_gondii	19.4	SCO61251.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+42	AAS48463.1|Toxoplasma_gondii	19.4	SCO63280.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Vinckeia)
+43	AAS48463.1|Toxoplasma_gondii	17.6	SBS94555.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale
+44	AAS48463.1|Toxoplasma_gondii	17.2	XP_004833708.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria	Theileria equi
+45	AAS48463.1|Toxoplasma_gondii	16.8	MMETSP1451_36532	cellular organisms	Eukaryota	Alveolata	Chromerida	Vitrella
+46	AAS48463.1|Toxoplasma_gondii	15.9	XP_026305811.1	cellular organisms	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Deuterostomia	Chordata	Craniata	Vertebrata	Gnathostomata	Teleostomi	Euteleostomi	Sarcopterygii	Dipnotetrapodomorpha	Tetrapoda	Amniota	Mammalia	Theria	Eutheria	Boreoeutheria	Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Cercopithecoidea	Cercopithecidae	Colobinae	Piliocolobus
+47	AAS48463.1|Toxoplasma_gondii	15.0	PVC61043.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria
+48	AAS48463.1|Toxoplasma_gondii	15.0	XP_009689958.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria	Theileria orientalis
+49	AAS48463.1|Toxoplasma_gondii	15.0	PVC53299.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria
+50	AAS48463.1|Toxoplasma_gondii	15.0	PVC52503.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria
+51	AAS48463.1|Toxoplasma_gondii	15.0	XP_953607.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria
+52	AAS48463.1|Toxoplasma_gondii	15.0	XP_766688.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Theileriidae	Theileria	Theileria parva
+53	AAS48463.1|Toxoplasma_gondii	14.9	CEM21685.1	cellular organisms	Eukaryota	Alveolata	Chromerida	Vitrella	Vitrella brassicaformis
+54	AAS48463.1|Toxoplasma_gondii	14.0	OII71442.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Cryptosporidiidae	Cryptosporidium
+55	AAS48463.1|Toxoplasma_gondii	14.0	XP_002141738.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Cryptosporidiidae	Cryptosporidium	Cryptosporidium muris
+56	AAS48463.1|Toxoplasma_gondii	13.6	XP_021338818.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia	Babesia microti
+57	AAS48463.1|Toxoplasma_gondii	13.4	XP_012766832.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia
+58	AAS48463.1|Toxoplasma_gondii	13.2	XP_028875680.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Cryptosporidiidae	Cryptosporidium
+59	AAS48463.1|Toxoplasma_gondii	13.2	OLQ18596.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Cryptosporidiidae	Cryptosporidium
+60	AAS48463.1|Toxoplasma_gondii	13.2	XP_028866437.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia
+61	AAS48463.1|Toxoplasma_gondii	13.2	XP_667338.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Cryptosporidiidae	Cryptosporidium	Cryptosporidium hominis
+62	AAS48463.1|Toxoplasma_gondii	13.2	XP_001388149.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Cryptosporidiidae	Cryptosporidium	Cryptosporidium parvum
+63	AAS48463.1|Toxoplasma_gondii	13.2	POM81992.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Cryptosporidiidae	Cryptosporidium
+64	AAS48463.1|Toxoplasma_gondii	12.8	MMETSP0290_2017	cellular organisms	Eukaryota	Alveolata	Chromerida	Chromera
+65	AAS48463.1|Toxoplasma_gondii	11.6	XP_028869816.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia	unclassified Babesia
+66	AAS48463.1|Toxoplasma_gondii	11.5	XP_029217123.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Besnoitia
+67	AAS48463.1|Toxoplasma_gondii	11.1	XP_011130640.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Gregarinasina	Eugregarinorida	Gregarinidae	Gregarina
+68	AAS48463.1|Toxoplasma_gondii	10.8	XP_001611057.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Piroplasmida	Babesiidae	Babesia	Babesia bovis
+69	AAS48463.1|Toxoplasma_gondii	10.6	MMETSP0227_54782	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Suessiales	Suessiaceae	Polarella
+70	AAS48463.1|Toxoplasma_gondii	10.3	XP_013349523.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Eimeriidae	Eimeria
+71	AAS48463.1|Toxoplasma_gondii	9.5	XP_013228596.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Eimeriidae	Eimeria
+72	AAS48463.1|Toxoplasma_gondii	9.5	XP_013433011.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Eimeriidae	Eimeria
+73	AAS48463.1|Toxoplasma_gondii	8.5	XP_013250611.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Eimeriidae	Eimeria
+74	AAS48463.1|Toxoplasma_gondii	7.0	MMETSP1035_529	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Gonyaulacales	Lingulodinium
+75	AAS48463.1|Toxoplasma_gondii	6.9	MMETSP0271_6369	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+76	AAS48463.1|Toxoplasma_gondii	6.9	MMETSP0270_94470	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+77	AAS48463.1|Toxoplasma_gondii	6.9	MMETSP0272_56971	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+78	AAS48463.1|Toxoplasma_gondii	6.5	MMETSP1098_58549	cellular organisms	Eukaryota	Stramenopiles	Chrysophyceae	Chromulinales	Chromulinaceae	Spumella	unclassified Spumella
+79	AAS48463.1|Toxoplasma_gondii	5.8	MMETSP0029_6508	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Gymnodiniales	Kareniaceae
+80	AAS48463.1|Toxoplasma_gondii	5.8	MMETSP0201_24542	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Gymnodiniales	Kareniaceae
+81	AAS48463.1|Toxoplasma_gondii	5.4	MMETSP0270_94471	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+82	AAS48463.1|Toxoplasma_gondii	5.1	MMETSP0119_120079	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Kryptoperidiniaceae	Kryptoperidinium
+83	AAS48463.1|Toxoplasma_gondii	5.1	MMETSP0118_13812	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Kryptoperidiniaceae	Kryptoperidinium
+84	AAS48463.1|Toxoplasma_gondii	4.9	KNG78666.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+85	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP0360_94413	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+86	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP0367_49589	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+87	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP0369_76090	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+88	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP0370_3823	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Peridiniaceae	Peridinium
+89	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP0851_28402	cellular organisms	Eukaryota	Stramenopiles	Bacillariophyta	Bacillariophyceae	Bacillariophycidae	Bacillariales	Bacillariaceae	Pseudo-nitzschia
+90	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP0361_138151	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+91	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP0359_12731	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+92	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP1075_50165	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Gonyaulacales	Ceratiaceae	Neoceratium
+93	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP0368_38845	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella
+94	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP1074_28023	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Gonyaulacales	Ceratiaceae	Neoceratium
+95	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP0661_103095	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Alexandrium
+96	AAS48463.1|Toxoplasma_gondii	4.8	MMETSP0371_12117	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Peridiniaceae	Peridinium
+97	AAS48463.1|Toxoplasma_gondii	4.5	XP_012762093.2	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+98	AAS48463.1|Toxoplasma_gondii	4.5	XP_004223224.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium cynomolgi
+99	AAS48463.1|Toxoplasma_gondii	4.5	MMETSP1441_51358	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa
+100	AAS48463.1|Toxoplasma_gondii	4.5	CDO63466.1	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
