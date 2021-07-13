@@ -1,7 +1,7 @@
 # stress_response_anaerobic_fungi
-Additional datasets for Swift et al. "Anaerobic fungal genomes encode stress response genes similar to early eukaryotic parasites"
+Additional datasets for Swift et al. "A Genomic Catalog of Stress Response Genes in Anaerobic Fungi for Applications in Biotechnology"
 
-hylogenetic trees in Newick format constructed by Fasttree (1) or RAxML (2) from selected transmembrane kinases from Neocallimastigomycetes and apicomplexans and their top homologs.  The folder “hits” contains the top-scoring MMSeq2 (3) hits from the NCBI’s non-redundant protein database, MycoCosm (4), and MMMMETPS (5) for each sequence (excluding Neocallimastigomycetes hits for the four sequences from this class). Sequence identifiers for each filename are as follows: anasp=MycoCosm protein Id 13827 (Anaeromyces robustus), caecom=543476 (Caecomyces churrovis), neosp=503500 (Neocallimastix californiae), pirfi=367815 (Piromyces finnis), plasma2=accession XP_024328881.1 (Plasmodium falciparum), thei2=XP_953607.1 (Theileria annulata), toxo1=AAS48463.1 (Toxoplasma gondii), toxo2=ACA62938.1 (Toxoplasma gondii).
+Phylogenetic trees in Newick format constructed by Fasttree (1) or RAxML (2) from selected transmembrane kinases from Neocallimastigomycetes and apicomplexans and their top homologs.  The folder “hits” contains the top-scoring MMSeq2 (3) hits from the NCBI’s non-redundant protein database, MycoCosm (4), and MMMMETPS (5) for each sequence (excluding Neocallimastigomycetes hits for the four sequences from this class). Sequence identifiers for each filename are as follows: anasp=MycoCosm protein Id 13827 (Anaeromyces robustus), caecom=543476 (Caecomyces churrovis), neosp=503500 (Neocallimastix californiae), pirfi=367815 (Piromyces finnis), plasma2=accession XP_024328881.1 (Plasmodium falciparum), thei2=XP_953607.1 (Theileria annulata), toxo1=AAS48463.1 (Toxoplasma gondii), toxo2=ACA62938.1 (Toxoplasma gondii).
 
 Citations:
 
